@@ -1,0 +1,6 @@
+openai
+gradio 
+pydub
+google-cloud-texttospeech
+google-auth
+google-auth-httplib2
